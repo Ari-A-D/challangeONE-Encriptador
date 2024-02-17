@@ -37,7 +37,7 @@ h2{
     justify-content: center; /* Centra horizontalmente */
     align-items: center; /* Centra verticalmente */
     font-weight: bold; /* Utiliza font-weight para la negrita en lugar de font-style */
-    font-size: 30px;
+    font-size: 20px;
     margin-top: 10%;
 }
 
