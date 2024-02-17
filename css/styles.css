@@ -41,11 +41,12 @@ h2{
     margin-top: 10%;
 }
 
-p{
+picture p{
     display: flex;
     justify-content: center; /* Centra horizontalmente */
     align-items: center; /* Centra verticalmente */
     margin-top: 10px;
+    padding-left: 25px;
 }
 
 .area-texto{
