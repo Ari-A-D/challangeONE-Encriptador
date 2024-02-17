@@ -1,0 +1,7 @@
+{
+    "fiveServer.highlight": true,
+    "fiveServer.host": "0.0.0.0",
+    "fiveServer.injectBody": true,
+    "fiveServer.php.ini": "C:\\xampp\\php\\php.ini",
+    "fiveServer.php.executable": "C:\\xampp\\php\\php.exe"
+}
