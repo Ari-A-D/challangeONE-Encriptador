@@ -1,5 +1,9 @@
 <h1 align="center"> Encriptador </h1>
-![Static Badge](https://img.shields.io/badge/JavaScript-JS-Yellow?style=plastic)
+<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-JS-Yellow?style=plastic&logo=JavaScript">
+<img alt="Static Badge" src="https://img.shields.io/badge/html5-HTML5-Orange?style=plastic&logo=HTML5">
+<img alt="Static Badge" src="https://img.shields.io/badge/Cascading%20Style%20Sheets-CSS-green?style=plastic">
+
+
 
 <h2>Descripción</h2>
 <p>El programa web toma texto ingresado en el input de tipo textarea por el usuario y encripta el escrito, de manera tal que solo puede ser desencriptado solo con el mismo programa</p>
