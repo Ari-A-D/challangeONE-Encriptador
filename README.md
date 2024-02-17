@@ -1,7 +1,10 @@
 <h1 align="center"> Encriptador </h1>
-<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-JS-Yellow?style=plastic&logo=JavaScript">
-<img alt="Static Badge" src="https://img.shields.io/badge/html5-HTML5-Orange?style=plastic&logo=HTML5">
-<img alt="Static Badge" src="https://img.shields.io/badge/Cascading%20Style%20Sheets-CSS-green?style=plastic">
+<p align="center">
+  <img alt="JavaScript Badge" src="https://img.shields.io/badge/JavaScript-JS-Yellow?style=plastic">
+  <img alt="HTML5 Badge" src="https://img.shields.io/badge/html5-HTML5-Orange?style=plastic">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Cascading%20Style%20Sheets-CSS-green?style=plastic">
+</p>
+
 
 
 
