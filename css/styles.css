@@ -23,9 +23,13 @@ picture {
 }
 
 .munieco{
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    width: 50%;
     max-width:  100%; /* Asegura que la imagen no exceda el ancho del contenedor */
     height: auto; /* Mantiene la proporción de la imagen */
-    margin-left: 15%;
+    margin-left: 25%;
 }
 
 h2{
