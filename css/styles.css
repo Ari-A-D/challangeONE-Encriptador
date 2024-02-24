@@ -169,3 +169,35 @@ a:hover{
     color:  #0A3871;
     font-size: 25px;
 }
+
+/* Estilos responsivos */
+@media (max-width:  768px) {
+    /* Estilos para pantallas pequeñas (móviles) */
+    .munieco {
+        width:  100%;
+        margin-left:  0;
+    }
+
+    h2 {
+        font-size:  16px;
+    }
+
+    .area-texto {
+        width:  100%;
+        margin-left:  0;
+    }
+
+    .botones {
+        margin:  1%  0  0  0;
+    }
+
+    .boton, .boton-copiar {
+        width:  100%;
+        margin:  1%  0  0  0;
+    }
+
+    a {
+        font-size:  16px;
+        margin:  5%  0  5%  0;
+    }
+}
