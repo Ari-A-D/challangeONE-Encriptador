@@ -176,7 +176,7 @@ a:hover {
     }
 
     form h4{
-        width:  70%; /* Hace que los botones ocupen todo el ancho disponible */
+        width:  70%; /* Hace que los botones ocupen el 70% del ancho disponible */
     }
 
     picture p {
@@ -188,7 +188,7 @@ a:hover {
     }
 
     .boton, .boton-copiar {
-        width:  70%; /* Hace que los botones ocupen todo el ancho disponible */
+        width:  70%; /* Hace que los botones ocupen el 70 % del ancho disponible */
         margin:  1%  0  0  0; /* Ajusta el margen para que no se superpongan */
     }
 
